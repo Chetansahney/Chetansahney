@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Chetan Sahney</h1>
-<h3 align="center">GSoC'25 | LLM & RAG Developer | BIT Mesra MnC'29 | Tech @ Neev Herbal Soaps</h3>
+<h3 align="center">GSoC'25 | LLM & RAG Developer | Founder: Renderly| Tech @ Neev Herbal Soaps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chetansahney&label=Profile%20views&color=blueviolet&style=flat" />
