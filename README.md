@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Chetan Sahney</h1>
-<h3 align="center">GSoC'25 | LLM & RAG Developer | Founder: Renderly| Tech @ Neev Herbal Soaps</h3>
+<h3 align="center">GSoC'25 Contributor | LLM & RAG Developer | DSA | CP </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chetansahney&label=Profile%20views&color=blueviolet&style=flat" />
@@ -14,9 +14,6 @@
 - 🧑‍🎓 2nd Year Mathematics & Computing @ BIT Mesra  
 - 🌍 Google Summer of Code 2025 Contributor  
 - 🤖 LLM, RAG & AI-based tool developer  
-- 🛠️ Technical Officer @ [Neev Herbal Soaps](https://neevsoaps.com)  
-- 🌐 Portfolio: [Me](https://wixinco.wixsite.com/myportfolio)
-
 ---
 
 ### 💼 Tech Stack & Tools
