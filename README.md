@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Chetan Sahney</h1>
-<h3 align="center">Open Source Contributor | LLM & RAG Developer | DSA | CP </h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Open+Source+Contributor;LLM+%26+RAG+Developer;Google+Summer+of+Code+2025;Competitive+Programming+%26+DSA;Maths+%26+Computing+Undergrad" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chetansahney&label=Profile%20views&color=blueviolet&style=flat" />
@@ -28,9 +32,7 @@
 
 ### 📈 Stats & GitHub Activity
 
-| GitHub Stats | Streaks |
-|--------------|---------|
-| ![](https://github-readme-stats.vercel.app/api?username=Chetansahney&show_icons=true&theme=tokyonight) | ![](https://streak-stats.demolab.com/?user=Chetansahney&theme=tokyonight) |
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chetansahney&theme=tokyonight)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chetansahney&theme=tokyonight" />
