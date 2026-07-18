@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 🧑‍🎓 2nd Year Mathematics & Computing @ BIT Mesra  
+- 🧑‍🎓 3rd Year Mathematics & Computing @ BIT Mesra  
 - 🌍 Google Summer of Code 2025 and 2026 Contributor[ CERN HSF, GRAPHITE] 
 - 🤖 LLM, RAG & AI-based tool developer  
 ---
