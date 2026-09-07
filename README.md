@@ -77,9 +77,6 @@
   <a href="https://linkedin.com/in/chetan-sahney-911b3b207">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wixinco.wixsite.com/myportfolio">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=wix&logoColor=white" />
-  </a>
 </p>
 
 ---
